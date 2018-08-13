@@ -1,0 +1,60 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: NilsonlinuX
+brief-intro: BloG
+baseurl: "" # selcione a pasta do seu site como /blog ou "" = pasta raiz (padrão)
+url: "https://nilsonlinux.github.io" # the base hostname & protocol for your site
+
+permalink: /:day/:month/:year/:title/
+
+# other links
+twitter_username: nilsonlinux
+facebook_username: nilsonlinux
+github_username:  Nilsonlinux
+email: nilsonlinux@gmail.com
+contact_url: https://goo.gl/forms/wrj7MU1tHLey0MUG2
+google-plus_username: +Nilsonlinux
+zhihu_username: 
+linkedIn_username: 
+dribbble_username:
+
+description_footer: NilsonlinuX BloG
+
+# comments
+# two ways to comment, only choose one, and use your own short name
+duoshuo_shortname: #NilsonblogID
+disqus_shortname: nilsonlinux #seu usuário no disqus para ativar comentários
+
+# estatístiscas para análise de seu site (analytics)
+# selecione seu id，para que seu site seja analisado por você.
+# exemplo: = "//hm.baidu.com/hm.js?xxxxxxxxxxxx"; ou Google analytics id
+# xxxxx é onde você deve colocar seu id
+baidu_tongji_id: #xxxxx# retire o #<!-- Caso não for utilizar, pode apagar esta lina e em _/includes/head.html linhas -->
+google_analytics_id: UA-122784671-1 # <--google Nilsonlinux-id-Substitua-->
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# port
+# port: 1234
+
+# url
+category_dir: category/ #Categorias do site
+tag_dir: tag/ #Tags do site
+
+# excerpt
+excerpt_separator: "\n\n\n\n"
+
+# paginate
+gems: [jekyll-paginate]
+paginate: 6
