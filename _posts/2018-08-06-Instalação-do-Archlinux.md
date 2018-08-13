@@ -10,7 +10,7 @@ author: Nilsonlinux
 * content
 {:toc}
 
-## O Arch Linux é considerada para usuários mais avançados, por conta de sua filosofia de desenvolvimento. Além disso, o Arch Linux é simples, flexível e considerada UNIX-like.  
+O Arch Linux é considerada para usuários mais avançados, por conta de sua filosofia de desenvolvimento. Além disso, o Arch Linux é simples, flexível e considerada UNIX-like.  
 Site Arch Linux: www.archlinux.org  
 
 
