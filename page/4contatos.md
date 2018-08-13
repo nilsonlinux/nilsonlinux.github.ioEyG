@@ -19,9 +19,6 @@ type: page
   </div>
 </div>
 
-Eu sou Nilsonlinux. Trazendo o melhor pra você.
-Este site possue algumas modificações em se tratando ao seu site original, As páginas foram traduzidas para o portugês-BR. Foi adicionado uma página de pesquisa para postagens.
-
 ## Contatos
 
 * GitHub：[Nilsonlinux](https://github.com/nilsonlinux)
