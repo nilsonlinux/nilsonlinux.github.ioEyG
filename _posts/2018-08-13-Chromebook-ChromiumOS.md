@@ -12,7 +12,7 @@ author: Nilsonlinux
 
 É mais fácil do que você pensa, e vale a pena fazer para alguns usuários.  
 
-## Os Chromebooks são maravilhosos para escolas e empresas, desde que você use principalmente os serviços do Google. No entanto, um novo   Chromebook não melhora nada uma máquina existente e o novo hardware é uma forma rápida de lançar um orçamento de TI.  
+Os Chromebooks são maravilhosos para escolas e empresas, desde que você use principalmente os serviços do Google. No entanto, um novo  Chromebook não melhora nada uma máquina existente e o novo hardware é uma forma rápida de lançar um orçamento de TI.  
 
 Veja como converter um laptop Windows em um Chromebook!  
 
@@ -21,7 +21,7 @@ Veja como converter um laptop Windows em um Chromebook!
 
 
 
-Por que fazer isso?  
+## Por que fazer isso?  
 
 Baixar Cloudready  
 
@@ -46,7 +46,7 @@ Uma empresa que construiu em cima do Chromium é Neverware. A Neverware constró
 
 Você precisará de um pendrive USB para isso. Todos os arquivos serão apagados do pen drive, então faça backup deles se for necessário.   
  
-Ir para o site da Neverware  
+## Ir para o site da Neverware  
 Role para baixo e selecione Download USB Maker .  
 Quando o fabricante do USB terminar de baixar, abra e execute o arquivo .exe .  
 
@@ -54,7 +54,7 @@ Quando o fabricante do USB terminar de baixar, abra e execute o arquivo .exe .
 Insira a unidade USB no seu computador.  
 O instalador irá guiar você pelas etapas de criação da instalação USB.  
 
-Instale o CloudReady  
+## Instale o CloudReady  
 
 Com a unidade de instalação USB criada, é hora de instalá-la no seu laptop antigo.  
 
@@ -71,7 +71,7 @@ Deixe o drive USB por enquanto.
 A partir daqui, configurar o laptop é o mesmo que configurar um novo Chromebook .  
 
 
-O que fazer a seguir  
+## O que fazer a seguir  
 
 A partir daqui, você pode escolher se o CloudReady será totalmente instalado e instalar alguns componentes proprietários. Antes de instalar  totalmente o CloudReady, conecte todos os docks ou acessórios que você deseja usar e verifique se eles funcionam corretamente.  
 
@@ -81,7 +81,7 @@ Clique em Apagar disco rígido e instale o CloudReady .
 A instalação levará cerca de vinte minutos. Conecte a fonte de alimentação para impedir que o laptop entre durante a instalação.  
 Quando a instalação estiver concluída, o computador será desligado. Remova o USB, ligue o computador e comece a usá-lo.  
 
-O que é diferente do Chrome OS  
+## O que é diferente do Chrome OS  
 Quando você começar a usar o laptop, perceberá que ele se parece muito com um Chromebook padrão. Mas existem algumas diferenças sutis:  
 
 Não há Google Play Store ou suporte para aplicativos Android  
