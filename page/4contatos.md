@@ -11,45 +11,53 @@ type: page
 
 ## Nilsonlinux
 
-<iframe src="https://githubbadge.appspot.com/Nilsonlinux" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
 
-<div class="container">
-	<div class="col-md-8 col-md-offset-2">
-		<h1 class="text-center">Contatos</h1>
-		<form method="POST" role="form" id="contact_form" data-toggle="validator">
-			<div class="row">
-				<div class="col-md-6">
-					<div class="form-group">
-						<label for="name">Nome</label>
-						<input type="text" name="name" class="form-control" minlength="5" maxlength="32" required>
-						<div class="help-block with-errors"></div>
-					</div>
-				</div>
-				<div class="col-md-6">
-					<div class="form-group">
-						<label for="email">Email</label>
-						<input type="email" name="email" class="form-control" required>
-						<div class="help-block with-errors"></div>
-					</div>
-				</div>
-			</div>
-			<div class="form-group">
-				<label for="subject">Assunto</label>
-				<input type="text" name="subject" class="form-control" minlength="10" maxlength="255" required>
-				<div class="help-block with-errors"></div>
-			</div>
-			<div class="form-group">
-				<label for="message">Mensagem</label>
-				<textarea name="message" class="form-control" rows="5" minlength="20" maxlength="2048" required></textarea>
-				<div class="help-block with-errors"></div>
-			</div>
-			<div class="alert" style="display: none;"></div>
-			<div class="form-group">
-				<button type="submit" class="btn btn-primary">Enviar</button>
-			</div>
-		</form>
-	</div>
+<form class="form-horizontal">
+<fieldset>
+
+<!-- Form Name -->
+<legend>Form Name</legend>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textinput_nome">Nome</label>  
+  <div class="col-md-4">
+  <input id="textinput_nome" name="textinput_nome" placeholder="digitar nome completo" class="form-control input-md" required="" type="text">
+  <span class="help-block">entre com seu nome</span>  
+  </div>
 </div>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textinput_email">Email</label>  
+  <div class="col-md-4">
+  <input id="textinput_email" name="textinput_email" placeholder="digite um email válido" class="form-control input-md" required="" type="text">
+  <span class="help-block">entre com seu email</span>  
+  </div>
+</div>
+
+<!-- Textarea -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="textarea_mensagem">Mensagem</label>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="textarea_mensagem" name="textarea_mensagem">digite aqui sua mensagem</textarea>
+  </div>
+</div>
+
+<!-- Button -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="singlebutton_enviar">Enviar</label>
+  <div class="col-md-4">
+    <button id="singlebutton_enviar" name="singlebutton_enviar" class="btn btn-primary">enviar</button>
+  </div>
+</div>
+
+</fieldset>
+</form>
 
 ## Contatos
 
