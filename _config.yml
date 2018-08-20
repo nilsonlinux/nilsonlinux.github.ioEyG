@@ -45,7 +45,7 @@ kramdown:
 
 # url
 category_dir: category/ #Categorias do site
-tag_dir: tag/ #Tags do site
+tag_dir: tag/ #Tags do site.
 
 # excerpt
 excerpt_separator: "\n\n\n\n"
